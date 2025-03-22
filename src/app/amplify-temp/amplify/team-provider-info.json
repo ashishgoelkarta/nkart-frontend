@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ecom-dev-98993-authRole",
+      "UnauthRoleArn": "arn:aws:iam::340752813320:role/amplify-ecom-dev-98993-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::340752813320:role/amplify-ecom-dev-98993-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-ecom-dev-98993-deployment",
+      "UnauthRoleName": "amplify-ecom-dev-98993-unauthRole",
+      "StackName": "amplify-ecom-dev-98993",
+      "StackId": "arn:aws:cloudformation:ap-south-1:340752813320:stack/amplify-ecom-dev-98993/33004fd0-e2d3-11ef-9256-060fc1c20549",
+      "AmplifyAppId": "d1plht93sx8zco"
+    }
+  }
+}
